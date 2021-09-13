@@ -1,5 +1,13 @@
 # Will Rice
 
+## Experience
+
+## Research
+
+## Publications
+
+## Awards
+
 ## Open-Source Contributions
 
 ### Spokestack
